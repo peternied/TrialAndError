@@ -1,5 +1,5 @@
 8. Eight
+4. Four
 1. One
 2. Two
-4. Four
 6. Six
